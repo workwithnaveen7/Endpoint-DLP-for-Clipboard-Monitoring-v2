@@ -1,0 +1,8 @@
+
+{
+  "sensitivity_level": "strict",
+  "detect_email": true,
+  "detect_phone_number": true,
+  "detect_aadhaar": true,
+  "detect_pan": true
+}
