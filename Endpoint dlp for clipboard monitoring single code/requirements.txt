@@ -1,0 +1,7 @@
+pyperclip
+requests
+pywin32
+PyPDF2
+Pillow
+pytesseract
+tk
